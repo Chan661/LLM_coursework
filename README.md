@@ -1,6 +1,6 @@
 # LLM Labs: Memory, Storage & API Serving
 
-This repository contains two Jupyter notebook labs exploring practical applications of Large Language Models using LangChain, vector databases, FastAPI, and Gradio.
+This repository contains two Jupyter notebook labs exploring practical applications of Large Language Models using LangChain, vector databases, FastAPI, and Gradio. This lab repository serves instructional purpose.
 
 ---
 
