@@ -132,6 +132,12 @@ print(response.content.decode(response.encoding))
 ```
 
 ---
+ 
+## Acknowledgements
+ 
+Lab instructions and materials were designed by Prof. Wei Xu at Tsinghua University.
+ 
+---
 
 ## References
 
