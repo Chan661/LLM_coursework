@@ -123,9 +123,11 @@ print(response.content.decode(response.encoding))
 
 ```
 .
-├── lab4_memory.ipynb        # Vector store QA & conversational memory lab
-├── lab7.ipynb               # FastAPI LLM server & Gradio web UI lab
-├── lab4_requirements.txt    # Python dependencies for Lab 4
+├── lab4/
+│   ├── lab4_memory.ipynb        # Vector store QA & conversational memory lab
+│   └── lab4_requirements.txt    # Python dependencies for Lab 4
+├── lab7/
+│   └── lab7.ipynb               # FastAPI LLM server & Gradio web UI lab
 └── README.md
 ```
 
